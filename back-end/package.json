@@ -1,6 +1,5 @@
 {
-  "name": "back-end",
-  "description": "",
+  "name": "pos-back-end",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -12,5 +11,9 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "pg-promise": "^10.11.0"
-  }
+  },
+  "version": "1.0.0",
+  "author": "grace-bong",
+  "license": "ISC",
+  "description": ""
 }
