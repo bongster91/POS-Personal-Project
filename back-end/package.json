@@ -1,6 +1,6 @@
 {
   "name": "pos-back-end",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon server.js",
     "db_seed": "psql -U postgres -f db/seed.sql",
